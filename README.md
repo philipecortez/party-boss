@@ -22,3 +22,30 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# TODO: 
+usuarios
+  cadastrar
+  perfil
+  editar
+
+eventos
+  criar
+  excluir
+  editar
+  remover
+  mostrar
+  listar
+  convite
+
+eventos/administrar
+
+eventos/convidados
+  listar
+  criar
+  excluir
+  editar
+  mostrar
+  ligar
+  mandar-msg
+  notificar
